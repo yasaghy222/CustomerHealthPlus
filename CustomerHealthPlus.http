@@ -1,0 +1,7 @@
+﻿@CustomerHealthPlus_HostAddress = http://localhost:5260
+
+GET {{CustomerHealthPlus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
